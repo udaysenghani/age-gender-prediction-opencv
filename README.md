@@ -16,25 +16,3 @@ pip install -r requirements.txt
 
 ---
 
-## 🔗 LinkedIn Post Idea (Copy/Paste and Customize)
-
-> 🔍 Just completed an **Age & Gender Prediction System** using Python + OpenCV!
->
-> 🧠 The model detects faces from a live webcam feed and predicts:
-> - Gender: 👨 Male or 👩 Female
-> - Age Group: e.g., (15-20), (25-32), etc.
->
-> 💡 Tech Used: Python, OpenCV DNN, Pre-trained Caffe Models
->
-> 🧠 Learned about:
-> - Face detection with OpenCV DNN
-> - Deep learning model inference
-> - Real-time predictions
->
-> 👉 GitHub Repo: [your repo link here]
->
-> #ComputerVision #OpenCV #Python #DeepLearning #AgeGenderDetection
-
----
-
-Let me know if you want the actual `main.py` script updated to reflect video input or other improvements — happy to help!
